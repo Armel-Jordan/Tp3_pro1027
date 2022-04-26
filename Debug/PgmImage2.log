@@ -1,0 +1,48 @@
+﻿  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  DialogImage.cpp
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(167,14): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(251,14): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(276,14): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(316,12): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(316,32): warning C4804: '>' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(327,13): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(327,33): warning C4804: '>' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(383,52): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(383,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(384,39): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(390,31): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(391,55): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(391,39): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(392,39): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(394,41): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(394,27): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(408,45): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(408,31): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(413,14): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(428,48): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(415,9): warning C4101: 'y' : variable locale non référencée
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\DialogImage.cpp(505,13): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  ImageReelle.cpp
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\ImageReelle.cpp(102,24): warning C4477: 'fscanf' : la chaîne de format '%i' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'double *'
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\ImageReelle.cpp(79,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\ImageReelle.cpp(86,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\ImageReelle.cpp(96,15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\ImageReelle.cpp(99,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\ImageReelle.cpp(102,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MainFrm.cpp
+  PgmImage2.cpp
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\PgmImage2.cpp(64,2): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  PgmImage2Doc.cpp
+  PgmImage2View.cpp
+  Util.cpp
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\Util.cpp(19,26): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\Util.cpp(15,16): warning C4101: 'sum' : variable locale non référencée
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\Util.cpp(15,21): warning C4101: 'del' : variable locale non référencée
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\Util.cpp(15,11): warning C4101: 'tnm' : variable locale non référencée
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\Util.cpp(17,10): warning C4101: 'j' : variable locale non référencée
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\Util.cpp(15,8): warning C4101: 'x' : variable locale non référencée
+C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\Util.cpp(17,6): warning C4101: 'it' : variable locale non référencée
+  Génération de code en cours...
+DialogImage.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/INCREMENTAL:NO'
+  PgmImage2.vcxproj -> C:\Users\lubaki\Desktop\PRO1027~\PRO1027-TP3\TraitementImagePGM-H17\PgmImage2\Debug\PgmImage2.exe
