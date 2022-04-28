@@ -1,10 +1,9 @@
 // MainFrm.cpp : implementation of the CMainFrame class
 //
 		/*
-		PRO1027 SESSION HIVER 2017
+		PRO1027 SESSION HIVER 2022
 		TP-3
-		ETUDIANTS: AMEDIKOU KOASSI BLEWUSSI ROGER
-		NOUNDOU TCHOUGA LEONNEL
+		KUIBIA TCHOUNGA ARMEL JORDAN
 		*/
 #include "stdafx.h"
 #include "PgmImage2.h"
